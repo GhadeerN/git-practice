@@ -1,7 +1,4 @@
 
-
-// try
-
 // zainab
 // add numbers
  fun main(){
@@ -18,3 +15,4 @@ fun add(a:Int,b:Int){
 
     printlin( num1+ num2)
 }
+
